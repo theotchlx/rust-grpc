@@ -1,11 +1,14 @@
 https://www.youtube.com/watch?v=kerKXChDmsE
 
+https://github.com/hyperium/tonic/blob/master/examples/src/authentication/client.rs
 
 Commands:
 
 `cargo run --bin server`
 
 `cargo run --bin client`
+
+`cargo run --bin client2`
 
 
 Requests:
